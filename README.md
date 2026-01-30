@@ -37,4 +37,5 @@ Feedback received and implemented based on reviewer comments
 
 Eric Du
 First-year student at Queen’s University
-Peer review comment added by Chenxiang (no functional changes).
+Minor formatting update for peer review
+
